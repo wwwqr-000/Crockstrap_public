@@ -1,0 +1,32 @@
+.normalDiv, .mob_s, .mob_m, .mob_l, .tablet, .laptop_1, .laptop_2, .hd4k {
+    width: 10vw;
+    height: 10vw;
+    background-color: black;
+}
+.mob_s, .c1 {
+    background-color: red;
+}
+.mob_m, .c2 {
+    background-color: green;
+}
+.mob_l, .c3 {
+    background-color: blue;
+}
+.tablet, .c4 {
+    background-color: aquamarine;
+}
+.laptop_1, .c5 {
+    background-color: blueviolet;
+}
+.laptop_2, .c6 {
+    background-color: brown;
+}
+.hd4k, .c7 {
+    background-color: darkgreen;
+}
+
+.c1, .c2, .c3, .c4, .c5, .c6, .c7 {
+    border-radius: 50%;
+    width: 30vw;
+    height: 30vw;
+}

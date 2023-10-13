@@ -1,4 +1,4 @@
-# Crockstrap_public
+# CrocksTrap
 A Bootstrap ripoff that is highly customizable and easy to use
 
 
